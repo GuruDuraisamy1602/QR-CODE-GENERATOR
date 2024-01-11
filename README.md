@@ -9,7 +9,7 @@ will be save in the system. It is an application that takes in a URL or a string
 creates a QR code for it. Here we can save the generated QR code as an image with 
 the .png extension.
 ## CODE
-Certainly! It seems the code got cut off. Here's the continuation and completion:
+
 
 ```python
 Subject = StringVar()
